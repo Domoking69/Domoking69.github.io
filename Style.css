@@ -17,7 +17,7 @@ h1 {
 }
 
 #container {
-	background-color: #3e4149;
+	background-color: #3f4348;
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
@@ -40,7 +40,7 @@ h1 {
 }
 
 #nav {
-	background-color: #3e4149;
+	background-color: #3f4348;
 	width: 180px;
 	float: left;
 }
@@ -53,6 +53,7 @@ h1 {
 #main {
 	width: 600px;
 	float: right;
+	
 }
 
 #filler {
@@ -63,8 +64,8 @@ h1 {
 
 #footer {
 	clear: both;
-	padding: 10px;
-	background-color: #a4a6ab;
+	padding: 0px;
+	background-color: #56595d;
 	color: White;
 	text-align: right;
 }
